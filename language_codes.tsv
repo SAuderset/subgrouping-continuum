@@ -1,0 +1,171 @@
+Code	Village_Name	Branch	Glottocode	ISO639P3code	CLDF_Name
+abas11	Abasolo del Valle	Mixtec	mixt1425	mix	AbasoloValleMixtec
+acat11	Santa María Acatepec	Mixtec	sant1441	mtu	SantaMariaAcatepecMixtec
+achi11	San Miguel Achiutla	Mixtec	sanm1292	xtm	SanMiguelAchiutlaMixtec
+adeq11	Santa Catarina Adéquez	Mixtec			SantaCatarinaAdequezMixtec
+ahue11	San Miguel Ahuehuetitlán	Mixtec	sila1250	mks	SanMiguelAhuehuetitlanMixtec
+alac11	Alacatlatzala	Mixtec	alac1244	mim	AlacatlatzalaMixtec
+alco11	Alcozáuca de Guerrero	Mixtec	alco1235	xta	AlcozaucaGuerreroMixtec
+amat11	San Miguel Amatitlán	Mixtec			SanMiguelAmatitlanMixtec
+amol11	Santiago Amoltepec	Mixtec	amol1236	mbz	SantiagoAmoltepecMixtec
+amol12	San Cristóbal Amoltepec	Mixtec	sanc1244	xtm	SanCristobalAmoltepecMixtec
+apas11	Santa María Apazco/Apasco	Mixtec	apas1235	mip	SantaMariaApazcoMixtec
+apoa11	Santiago Apoala	Mixtec	apas1235	mip	SantiagoApoalaMixtec
+asun11	Santa María Asunción	Mixtec			SantaMariaAsuncionMixtec
+atat11	San Esteban Atatlahuca	Mixtec	atat1238	mib	SanEstebanAtatlahucaMixtec
+aten11	San Agustín Atenango	Mixtec			SanAgustinAtenangoMixtec
+atla11	Atlamajalcingo del Monte	Mixtec	atla1271	mim	AtlamajalcingoMonteMixtec
+atoy11	San Pedro Atoyac	Mixtec			SanPedroAtoyacMixtec
+ayut11	Ayutla de los Libres	Mixtec	ayut1236	miy	AyutlalosLibresMixtec
+bate11	La Batea	Mixtec	mixt1425	mix	LaBateaMixtec
+brav11	Santa Cruz de Bravo	Mixtec			SantaCruzBravoMixtec
+caca11	Santiago Cacaloxtepec	Mixtec	caca1250	miu	SantiagoCacaloxtepecMixtec
+cahu11	Cahuatache/Cahuatachi	Mixtec	alac1244	mim	CahuatacheMixtec
+chal11	Chalcatongo de Hidalgo	Mixtec	sanm1296	mig	ChalcatongoHidalgoMixtec
+chay11	San Agustín Chayuco	Mixtec	chay1249	mih	SanAgustinChayucoMixtec
+chay12	San Pedro Chayuco	Mixtec			SanPedroChayucoMixtec
+chaz11	Santiago Chazumba	Mixtec	chaz1235	xtb	SantiagoChazumbaMixtec
+chic02	San Andrés Chicahuaxtla 1890	Triqui	chic1273	trs	SanAndresChicahuaxtla1890Triqui
+chic11	San Miguel Chicahua	Mixtec			SanMiguelChicahuaMixtec
+chic12	San Andrés Chicahuaxtla	Triqui	chic1273	trs	SanAndresChicahuaxtlaTriqui
+chig11	Chigmecatitlán	Mixtec	chig1239	mii	SantaMariaChigmecatitlanMixtec
+coat11	San Juan Coatzóspam/Coatzóspan	Mixtec	coat1241	miz	SanJuanCoatzospamMixtec
+coic11	Coicoyán de las Flores	Mixtec	coic1238	jmx	CoicoyanlasFloresMixtec
+colo11	San Juan Colorado	Mixtec	sanj1281	mjc	SanJuanColoradoMixtec
+conc11	Concepción Pápalo	Cuicatec	tepe1280	cux	ConcepcionPapaloCuicatec
+copa11	San Juan Copala	Triqui	copa1237	trc	SanJuanCopalaTriqui
+coso11	Cosoltepec	Mixtec	chaz1235	xtb	CosoltepecMixtec
+coxc11	San Pedro Coxcaltepec Cántaros	Mixtec			SanPedroCoxcaltepecCantarosMixtec
+cris11	San Cristóbal (Jamiltepec)	Mixtec	chay1249	mih	SanCristobalJamiltepecMixtec
+cuat11	Cuatzoquitengo	Mixtec	cuat1239	mim	CuatzoquitengoMixtec
+cuau11	Santa Ana Cuauhtémoc	Mixtec	cuya1240	xtu	SantaAnaCuauhtemocMixtec
+cuil11	Cuilapam/Cuilapan de Guerrero	Mixtec			CuilapamGuerreroMixtec
+cuya11	Cuyamecalco Villa de Zaragoza	Mixtec	cuya1240	xtu	CuyamecalcoVillaZaragozaMixtec
+diux11	San Juan Diuxi	Mixtec	diux1236	xtd	SanJuanDiuxiMixtec
+dura11	San Martín Duraznos	Mixtec	juxt1235	vmc	SanMartinDuraznosMixtec
+esta11	San Martín del Estado	Mixtec			SanMartinEstadoMixtec
+este11	Santa Catarina Estetla	Mixtec	peno1244	mil	SantaCatarinaEstetlaMixtec
+flor11	San Francisco de las Flores	Mixtec			SanFranciscolasFloresMixtec
+flor12	San Marcos de la Flor	Mixtec	sanm1291	jmx	SanMarcoslaFlorMixtec
+gran11	San Miguel El Grande	Mixtec	sanm1295	mig	SanMiguelElGrandeMixtec
+gran12	San Miguel El Grande (Alcozáuca)	Mixtec	alco1235	xta	SanMiguelElGrandeAlcozaucaMixtec
+guad11	Guadalupe Villahermosa (El Portesuelo)/Guadalupe Portezuelo	Mixtec			GuadalupeVillahermosaMixtec
+huaj11	Heroica Ciudad de Huajuapan de León	Mixtec	caca1250	miu	HeroicaCiudadHuajuapanLeonMixtec
+huaz11	Santa María Huazolotitlán	Mixtec			SantaMariaHuazolotitlanMixtec
+huen11	Santo Domingo Huendío	Mixtec	sant1440	xtm	SantoDomingoHuendioMixtec
+huit11	San Antonio Huitepec	Mixtec	huit1252	mxs	SanAntonioHuitepecMixtec
+itun11	Santa Cruz Itundujia	Mixtec	itun1239	mce	SantaCruzItundujiaMixtec
+itun12	San Martín Itunyoso	Triqui	sanm1298	trq	SanMartinItunyosoTriqui
+ixpa11	Ixpantepec Nieves	Mixtec	sila1250	mks	IxpantepecNievesMixtec
+ixta11	Santiago Ixtayutla	Mixtec	ixta1235	vmj	SantiagoIxtayutlaMixtec
+ixta12	Santiago Ixtaltepec	Mixtec			SantiagoIxtaltepecMixtec
+ixta13	San Miguel Ixtapam/Ixtapan	Mixtec			SanMiguelIxtapamMixtec
+jami11	Santiago Jamiltepec	Mixtec	jami1235	mxt	SantiagoJamiltepecMixtec
+jate11	San Francisco Jaltepetongo	Mixtec			SanFranciscoJaltepetongoMixtec
+jica11	Santa María Jicaltepec	Mixtec	pino1237	mio	SantaMariaJicaltepecMixtec
+jica12	San Pedro Jicayán	Mixtec			SanPedroJicayanMixtec
+jica13	El Jicaral	Mixtec	coic1238	jmx	ElJicaralMixtec
+joco11	San Pedro Jocotipac	Mixtec			SanPedroJocotipacMixtec
+juxt11	Santiago Juxtlahuaca	Mixtec	juxt1235	vmc	SantiagoJuxtlahuacaMixtec
+lore11	San Lorenzo	Mixtec			SanLorenzoMixtec
+mech11	Santa Catarina Mechoacán	Mixtec	chay1249	mih	SantaCatarinaMechoacanMixtec
+metl11	Metlatónoc	Mixtec	metl1238	mxv	MetlatonocMixtec
+mica11	El Rosario Micaltepec	Mixtec			ElRosarioMicaltepecMixtec
+mitl11	Santiago Mitlatongo	Mixtec	mitl1235	vmm	SantiagoMitlatongoMixtec
+mixt11	San Juan Mixtepec	Mixtec	mixt1425	mix	SanJuanMixtepecMixtec
+moli11	San Pedro Molinos	Mixtec	sanp1259	mig	SanPedroMolinosMixtec
+mont11	San Antonino Monte Verde	Mixtec	mont1271	xtn	SanAntoninoMonteVerdeMixtec
+mont12	San Sebastián del Monte	Mixtec	sila1250	mks	SanSebastianMonteMixtec
+mont13	Santa Lucía Monteverde	Mixtec	sant1439	mdv	SantaLuciaMonteverdeMixtec
+mont14	San Agustín Monte Lobos	Mixtec			SanAgustinMonteLobosMixtec
+more11	San Luís Morelia	Mixtec	tama1339	vmx	SanLuisMoreliaMixtec
+ndua11	San Antonio Nduayaco	Mixtec	apas1235	mip	SanAntonioNduayacoMixtec
+nica11	San Sebastián Nicananduta	Mixtec	nort2985	xtn	SanSebastianNicanandutaMixtec
+nuch11	San Jorge Nuchita	Mixtec	sila1250	mks	SanJorgeNuchitaMixtec
+numi11	San Juan Ñumi	Mixtec	nort2985	xtn	SanJuanNumiMixtec
+nund11	Santa Cruz Nundaco	Mixtec			SantaCruzNundacoMixtec
+nund12	Santiago Nundiche/Nundichi	Mixtec	nort2985	xtn	SantiagoNundicheMixtec
+nund13	Santo Domingo Nundó	Mixtec			SantoDomingoNundoMixtec
+nuti11	Santa María Nutio	Mixtec			SantaMariaNutioMixtec
+nuxa11	Santo Domingo Nuxaá	Mixtec			SantoDomingoNuxaaMixtec
+nuxi11	San Andrés Nuxiño	Mixtec			SanAndresNuxinoMixtec
+nuyo11	Santiago Nuyoó	Mixtec	nuyo1238	meh	SantiagoNuyooMixtec
+ocot11	Santo Tomás Ocotepec	Mixtec	ocot1243	mie	SantoTomasOcotepecMixtec
+papa11	Santa María Pápalo	Cuicatec	sant1437	cux	SantaMariaPapaloCuicatec
+pena11	Magdalena Peñasco	Mixtec	magd1235	xtm	MagdalenaPenascoMixtec
+pena12	San Mateo Peñasco	Mixtec	sanm1293	xtm	SanMateoPenascoMixtec
+peno11	Santa María Peñoles	Mixtec	peno1244	mil	SantaMariaPenolesMixtec
+peno11	Santa María Peñoles	Mixtec	sant1445	mil	SantaMariaPenolesMixtec
+pera11	San Martín Peras	Mixtec	sanm1291	jmx	SanMartinPerasMixtec
+petl11	Petlacalancingo/Petlakalansingo	Mixtec	petl1238	xta	PetlacalancingoMixtec
+pied11	San Miguel Piedras	Mixtec	sanm1294	xtp	SanMiguelPiedrasMixtec
+pied12	Piedra Azul	Mixtec			PiedraAzulMixtec
+pina11	San Juan Piñas	Mixtec	sanj1280	jmx	SanJuanPinasMixtec
+pino11	Santiago Pinotepa Nacional	Mixtec	pino1237	mio	SantiagoPinotepaNacionalMixtec
+pino12	Pinotepa de Don Luís	Mixtec	pino1237	mio	PinotepaDonLuisMixtec
+plan11	Plan de Guadalupe	Mixtec	plan1238	mim	PlanGuadalupeMixtec
+poto11	Potoichán	Mixtec	poto1253	mim	PotoichanMixtec
+prog11	San Miguel Progreso	Mixtec			SanMiguelProgresoMixtec
+prog12	San Jerónimo Progreso	Mixtec	sila1250	mks	SanJeronimoProgresoMixtec
+prom01	Proto-Mixtec	Mixtec	mixt1427		Proto-MixtecMixtec
+prot01	Proto-Trique	Triqui	triq1251		Proto-TriqueMixtec
+reye11	Santos Reyes Tepejillo	Mixtec			SantosReyesTepejilloMixtec
+sayu11	San Francisco (de Asís) Sayultepec	Mixtec	pino1237	mio	SanFranciscoSayultepecMixtec
+sila11	Silacayoapam	Mixtec	sila1250	mks	SilacayoapamMixtec
+sind11	San Mateo Sindihui	Mixtec	sind1277	xts	SanMateoSindihuiMixtec
+sini11	San José (Sinicahua)	Mixtec	sini1243	xti	SanJoseSinicahuaMixtec
+soso11	San Jerónimo Sosola	Mixtec			SanJeronimoSosolaMixtec
+soya11	San Bartolo Soyaltepec	Mixtec	soya1236	vmq	SanBartoloSoyaltepecMixtec
+tama11	San Juan Tamazola	Mixtec	tama1339	vmx	SanJuanTamazolaMixtec
+tama12	Santiago Tamazola	Mixtec			SantiagoTamazolaMixtec
+tata11	Santa María Tataltepec	Mixtec	sant1444		SantaMariaTataltepecMixtec
+teco11	San Sebastián Tecomaxtlahuaca	Mixtec			SanSebastianTecomaxtlahuacaMixtec
+teit11	San Juan Teita	Mixtec	sanj1282	xtj	SanJuanTeitaMixtec
+tejo11	Los Tejocotes	Mixtec			LosTejocotesMixtec
+tepa11	Tepango	Mixtec	ayut1236	miy	TepangoMixtec
+tepa12	San Mateo Tepantepec	Mixtec	sanm1297	mil	SanMateoTepantepecMixtec
+tepe03	San Juan Tepeuxila 1900	Cuicatec	tepe1280	cux	SanJuanTepeuxila1900Cuicatec
+tepe11	Tepejillo	Mixtec			TepejilloMixtec
+tepe12	San Antonio Tepetlapa	Mixtec			SanAntonioTepetlapaMixtec
+tepe13	San Juan Tepeuxila	Cuicatec	tepe1280	cux	SanJuanTepeuxilaCuicatec
+tepo01	San Pedro y San Pablo Teposcolula 1600	Mixtec			SanPedroySanPabloTeposcolula1600Mixtec
+teut11	San Pedro Teutila	Cuicatec	teut1235	cut	SanPedroTeutilaCuicatec
+tezo11	Tezoatlán de Segura y Luna	Mixtec	tezo1239	mxb	TezoatlanSegurayLunaMixtec
+ticu11	Santa Catarina Ticuá	Mixtec	sant1443	mig	SantaCatarinaTicuaMixtec
+tida11	San Pedro Tidaá	Mixtec	tida1235	mtx	SanPedroTidaaMixtec
+tija11	San Pablo Tijaltepec	Mixtec	tija1235	xtl	SanPabloTijaltepecMixtec
+tila11	Santiago Tilantongo	Mixtec	diux1236	xtd	SantiagoTilantongoMixtec
+tind11	Santa María Tindú	Mixtec			SantaMariaTinduMixtec
+tlac11	San Agustín Tlacotepec	Mixtec	sana1284	xtm	SanAgustinTlacotepecMixtec
+tlac12	San Miguel Tlacotepec	Mixtec			SanMiguelTlacotepecMixtec
+tlah11	Tlahuapa	Mixtec	alco1235	xta	TlahuapaMixtec
+tlal11	Santa Catarina Tlaltempan	Mixtec			SantaCatarinaTlaltempanMixtec
+tlaz11	Santiago Tlazoyaltepec	Mixtec	tlaz1235	mqh	SantiagoTlazoyaltepecMixtec
+tlaz11	Santiago Tlazoyaltepec	Mixtec	sant1446	mqh	SantiagoTlazoyaltepecMixtec
+tona11	Santo Domingo Tonahuixtla	Mixtec			SantoDomingoTonahuixtlaMixtec
+toto11	Tototepec	Mixtec	toto1307	mim	TototepecMixtec
+toto12	(Santa María) Totoltepec de Guerrero	Mixtec	chaz1235	xtb	TotoltepecGuerreroMixtec
+tutu11	Villa de Tututepec de Melchor Ocampo	Mixtec	tutu1243	mtu	VillaTututepecMelchorOcampoMixtec
+tutu12	San Pedro Tututepec	Mixtec	tutu1243	mtu	SanPedroTututepecMixtec
+xaya11	San Jerónimo Xayacatlán	Mixtec	south3001	mit	SanJeronimoXayacatlanMixtec
+xaya12	Xayacatlán de Bravo	Mixtec	south3001	mit	XayacatlanBravoMixtec
+xoch11	Xochapa	Mixtec	xoch1238	xta	XochapaMixtec
+yolo11	Santa María Yolotepec	Mixtec	taca1257	xtt	SantaMariaYolotepecMixtec
+yolo12	Yoloxochitl	Mixtec	yolo1241	xty	YoloxochitlMixtec
+yoso11	Santiago Yosondúa	Mixtec	yoso1239	mpm	SantiagoYosonduaMixtec
+yoso12	Santa María Yosoyúa	Mixtec	sant1442		SantaMariaYosoyuaMixtec
+yoso13	Santa Catarina Yosonotú	Mixtec	sant1438		SantaCatarinaYosonotuMixtec
+yoso14	San Pedro Yosoñama	Mixtec	yoso1238	xtn	SanPedroYosonamaMixtec
+yucu11	San Bartolomé Yucuañe	Mixtec	yucu1250	mvg	SanBartolomeYucuaneMixtec
+yucu12	Santa María Yucuhiti	Mixtec	yucu1249	meh	SantaMariaYucuhitiMixtec
+yucu13	Yucuñuti de Benito Juárez	Mixtec	yucu1251	mxb	YucunutiBenitoJuarezMixtec
+yucu14	San Pedro Yucunama	Mixtec			SanPedroYucunamaMixtec
+yucu15	Santa María Yucunicoco	Mixtec			SantaMariaYucunicocoMixtec
+yucu16	Yucuquimi de Ocampo	Mixtec			YucuquimiOcampoMixtec
+yucu17	Yucunani/Yucunany	Mixtec	mixt1425	mix	YucunaniMixtec
+yuta11	Yutanduchi de Guerrero	Mixtec	yuta1240	mab	YutanduchiGuerreroMixtec
+yuta12	San Juan Yuta	Mixtec			SanJuanYutaMixtec
+yuta13	San Andrés Yutatío	Mixtec			SanAndresYutatioMixtec
+zaca11	Santa María Zacatepec	Mixtec	sant1436	mza	SantaMariaZacatepecMixtec
+zahu11	San Simón Zahuatlán	Mixtec	sans1274		SanSimonZahuatlanMixtec
+zapo11	Zapotitlán Palmas	Mixtec			ZapotitlanPalmasMixtec
